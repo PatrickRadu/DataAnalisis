@@ -1,0 +1,38 @@
+Country,P_max,P_2 clusters,P_3 clusters,P_4 clusters,P_5 clusters,P_6 clusters
+Belgium,C1,C1,C2,C3,C3,C5
+Bulgaria,C0,C0,C1,C2,C4,C1
+Czechia,C1,C1,C0,C1,C2,C4
+Denmark,C1,C1,C2,C3,C3,C5
+Germany,C1,C1,C0,C1,C2,C4
+Estonia,C1,C1,C0,C1,C2,C4
+Ireland,C1,C1,C2,C3,C1,C3
+Greece,C1,C1,C2,C3,C1,C3
+Spain,C1,C1,C2,C3,C3,C5
+France,C1,C1,C2,C3,C3,C5
+Croatia,C1,C1,C2,C3,C3,C5
+Italy,C1,C1,C2,C3,C1,C3
+Cyprus,C0,C0,C1,C2,C4,C1
+Latvia,C1,C1,C2,C3,C3,C5
+Lithuania,C1,C1,C2,C3,C3,C5
+Luxembourg,C1,C1,C2,C3,C3,C5
+Hungary,C1,C1,C2,C3,C3,C5
+Malta,C1,C1,C2,C3,C3,C5
+Netherlands,C1,C1,C0,C1,C2,C4
+Austria,C1,C1,C0,C1,C2,C4
+Poland,C1,C1,C2,C3,C1,C3
+Portugal,C1,C1,C2,C3,C1,C3
+Romania,C0,C0,C1,C2,C4,C2
+Slovenia,C1,C1,C2,C3,C3,C5
+Slovakia,C1,C1,C2,C3,C3,C5
+Finland,C1,C1,C2,C3,C3,C5
+Sweden,C1,C1,C2,C3,C3,C5
+Iceland,C1,C1,C0,C1,C2,C4
+Norway,C1,C1,C0,C1,C2,C4
+Switzerland,C1,C1,C0,C1,C2,C4
+United Kingdom,C1,C1,C2,C3,C3,C5
+Bosnia and Herzegovina,C0,C0,C1,C2,C4,C2
+Montenegro,C1,C1,C2,C3,C3,C5
+North Macedonia,C1,C1,C2,C0,C0,C0
+Albania,C0,C0,C1,C2,C4,C2
+Serbia,C1,C1,C2,C3,C3,C5
+Turkiye,C1,C1,C2,C3,C3,C5
